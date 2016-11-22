@@ -35,11 +35,3 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
-
-# Images #
-######################
-*.png
-*.jpg
-*.gif
-*.ico
-*.psd
